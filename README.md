@@ -24,30 +24,39 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="" /> 
-</td>
+  <table align="center">
+    <tr border="none">
+      <!-- Columna izquierda: Stats + Streak -->
+      <td width="50%" align="center">
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=AngelCS97&show_icons=true&theme=radical" alt="GitHub Stats" />
+        <br><br>
+        <!-- GitHub Streak -->
+        <img src="https://streak-stats.demolab.com?user=AngelCS97&theme=radical" alt="GitHub Streak" />
+      </td>
+<tr>
+      <!-- Columna derecha: Lenguajes más usados -->
+      <td width="50%" align="center">
+        <!-- Most Used Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelCS97&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</p>
+<!--- stats (end) -->
 
-<td width="50%" align="center">
 
-  <img  align="center"  src=""/>
-  
-  </td>
-</tr>
-</table>
+  </table>
+</p>
 <!--- stats (end) -->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
